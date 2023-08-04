@@ -50,6 +50,8 @@ afterwards type in "node index.js" to start the application
 
 ## License
 
+[Title](LICENSE)
+
 ## Creator
 
 Bruno Rosarini
@@ -70,4 +72,4 @@ For any questions, please reach out via GitHub or email:
 
 - GitHub: [BrunoRosarini](https://github.com/RdySetShine)
 
-- Email: (brunorosarini@gmail.com)
+- Email: (rosarinibruno@gmail.com)
