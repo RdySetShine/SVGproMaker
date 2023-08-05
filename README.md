@@ -2,11 +2,11 @@
 
 ## Images
 
-
+![Alt text](examples/SVG1.jpeg)
 
 ---
 
-
+![Alt text](examples/SVG2.jpeg)
 
 ---
 
@@ -64,7 +64,7 @@ Luis Sanchez Tutot
 
 ## Tests
 
-test video: 
+test video: https://drive.google.com/file/d/197qyS5HXe1R-kBFdQp8bhyz8dlQvjXZA/view
 
 ## Questions
 
