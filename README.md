@@ -64,7 +64,7 @@ Luis Sanchez Tutot
 
 ## Tests
 
-test video: https://drive.google.com/file/d/197qyS5HXe1R-kBFdQp8bhyz8dlQvjXZA/view
+Test Video: 
 
 ## Questions
 

@@ -73,7 +73,7 @@ function startShapeQuestions() {
             shape = new Triangle()
 
             // shape = new triangle()
-            shape.newColor(ColorChoice(responses.shapeColor))
+            shape.setColor(ColorChoice(responses.shapeColor))
            
         }
 
@@ -83,7 +83,7 @@ function startShapeQuestions() {
            shape = new Circle()
 
             // shape = new circle()
-            shape.newColor(ColorChoice(responses.shapeColor))
+            shape.setColor(ColorChoice(responses.shapeColor))
             
             // shape = new circle()
         }
@@ -93,7 +93,7 @@ function startShapeQuestions() {
            shape = new Square()
 
             // shape = new triangle()
-            shape.newColor(ColorChoice(responses.shapeColor))
+            shape.setColor(ColorChoice(responses.shapeColor))
            
 
             // shape = new square()
