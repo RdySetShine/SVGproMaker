@@ -70,6 +70,6 @@ test video: https://drive.google.com/file/d/197qyS5HXe1R-kBFdQp8bhyz8dlQvjXZA/vi
 
 For any questions, please reach out via GitHub or email:
 
-- GitHub: [BrunoRosarini](https://github.com/RdySetShine)
+- GitHub: [BrunoRosarini](https://github.com/RdySetShine/SVGproMaker)
 
 - Email: (rosarinibruno@gmail.com)

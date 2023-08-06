@@ -1,18 +1,23 @@
 {
-  "name": "yes",
+  "name": "svg-logo",
   "version": "1.0.0",
-  "description": "## Your Task",
   "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
   "scripts": {
     "test": "jest"
   },
   "author": "",
   "license": "ISC",
-  "keywords": [],
-  "devDependencies": {
-    "jest": "^29.5.0"
-  },
   "dependencies": {
-    "inquirer": "^6.2.4"
-  }
+    "@babel/plugin-syntax-jsx": "^7.22.5",
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  },
+  "keywords": [],
+  "description": ""
 }
