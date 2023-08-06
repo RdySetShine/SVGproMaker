@@ -1,4 +1,4 @@
-# SVG Generator
+# SVGproMaker
 
 ## Images
 
@@ -54,17 +54,19 @@ afterwards type in "node index.js" to start the application
 
 ## Creator
 
-Bruno Rosarini
+-Bruno Rosarini
 
 ## Contributing
 
-Austin Grech
-Krishna The TA
-Luis Sanchez Tutot
+-Austin Grech
+
+-Krishna The TA
+
+-Luis Sanchez Tutor
 
 ## Tests
 
-Test Video: 
+Test Video: https://drive.google.com/file/d/1Ri_knevUeoEicdzA9RKlKMQpcEk54MLf/view
 
 ## Questions
 
